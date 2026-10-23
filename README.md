@@ -47,64 +47,60 @@ Voice features only for voices you own or have permission to use. The sample ren
 record for that exact file (matched by SHA-256). The built-in synthesizers are previews, not realistic voice clones.
 Choose and add a license before distributing.
 
+```markdown
+> **Gmail is better on the app**  
+> Secure, fast & organized email  
+> [Open](#)
 
-Gmail is better on the app
-Secure, fast & organized email
-Open
-🌟 Thank You for Reaching Out! 🌟
-S
-Sony Music
-to me
-20 minutes agoDetails
-👋 Hello there! 👋 
+# 🌟 Thank You for Reaching Out! 🌟
 
+**S** ￼  
+**Sony Music**  
+*to me*  
+20 minutes ago  
+[Details](#)
 
+---
 
-Thank you for reaching out to us! We've received your inquiry, and our team is on it. An agent will be with you shortly. 
+👋 Hello there! 👋
 
+Thank you for reaching out to us! We've received your inquiry, and our team is on it. An agent will be with you shortly.
 
+**Our Hours:** We're available from 9 am to 6 pm EST, Monday to Friday. If you've messaged us outside these hours, no worries! We'll catch it when we're back online and respond as soon as possible.
 
-Our Hours: We're available from 9 am to 6 pm EST, Monday to Friday. If you've messaged us outside these hours, no worries! We'll catch it when we're back online and respond as soon as possible. 
-
-
-
-Please bear with us as we're currently handling a high volume of inquiries. Your patience is appreciated, and we'll make sure to assist you promptly. 
-
-
+Please bear with us as we're currently handling a high volume of inquiries. Your patience is appreciated, and we'll make sure to assist you promptly.
 
 Feel free to reach out if you have any more questions in the meantime. We're here to help! Best regards!
 
-
+---
 
 On Fri, Oct 23, 2026 at 22:00:35 GMT, Lewis Jr. <ljrseals@gmail.com> wrote:
 
-
-11-23-2026
-
-
-
-Sony Records / Sony Music Entertainment
-A&R and Business Development
-New York, New York [#####]
-
-Dear Sony Records Team,
-
-I am writing to introduce my music-technology work and to ask for guidance on the appropriate person or department at Sony to review it.
-
-I have uploaded AOC Magic and AOC Magic Studio. The core function of the program is to take WAV files and clone the voice. I am also developing Authority, a chatbot, and a speech-to-State-forms software package. In addition, I have ElevenX and Aura G, technologies that I believe should advance music creation and production.
-
-I also understand that Beyoncé Knowles Carter would like for me to release a book on the Endless Engine, Total Beats, and halving the cat techniques. I would welcome Sony’s guidance on the proper publishing, rights, and business-development path for that project.
-
-My work and public repositories are available here: github.com/ljrseals-dev.
-
-I am not asking Sony to endorse any claim without review. I am prepared to provide a technical brief, demonstration materials, and documentation, and I am committed to responsible voice-cloning practices, including consent and rights clearance.
-
-Could you please advise me on the correct contact for technology evaluation, licensing, A&R, or publishing discussions? I would be grateful for a brief call or for direction to the appropriate department.
-
-Thank you for your time and consideration.
-
-Sincerely,
-
-Lewis Seals 
-5161 Leonard Road
-Memphis, TN 38109
+> 11-23-2026
+>
+> Sony Records / Sony Music Entertainment  
+> A&R and Business Development  
+> New York, New York [#####]
+>
+> Dear Sony Records Team,
+>
+> I am writing to introduce my music-technology work and to ask for guidance on the appropriate person or department at Sony to review it.
+>
+> I have uploaded AOC Magic and AOC Magic Studio. The core function of the program is to take WAV files and clone the voice. I am also developing Authority, a chatbot, and a speech-to-State-forms software package. In addition, I have ElevenX and Aura G, technologies that I believe should advance music creation and production.
+>
+> I also understand that Beyoncé Knowles Carter would like for me to release a book on the Endless Engine, Total Beats, and halving the cat techniques. I would welcome Sony’s guidance on the proper publishing, rights, and business-development path for that project.
+>
+> My work and public repositories are available here: [github.com/ljrseals-dev](https://github.com/ljrseals-dev).
+>
+> I am not asking Sony to endorse any claim without review. I am prepared to provide a technical brief, demonstration materials, and documentation, and I am committed to responsible voice-cloning practices, including consent and rights clearance.
+>
+> Could you please advise me on the correct contact for technology evaluation, licensing, A&R, or publishing discussions? I would be grateful for a brief call or for direction to the appropriate department.
+>
+> Thank you for your time and consideration.
+>
+> Sincerely,
+>
+> Lewis Seals  
+> 5161 Leonard Road  
+> Memphis, TN 38109
+```
