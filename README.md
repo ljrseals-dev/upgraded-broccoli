@@ -49,11 +49,7 @@ Choose and add a license before distributing.
 
 
 
-```markdown
 # Email Correspondence
-
-> **Gmail** — Secure, fast, and organized email  
-> [Open in Gmail](#)
 
 ---
 
@@ -84,7 +80,7 @@ Sony Music
 **From:** Lewis Jr. `<ljrseals@gmail.com>`  
 **Date:** Friday, October 23, 2026, 22:00:35 GMT  
 **To:** Sony Records / Sony Music Entertainment — A&R and Business Development  
-**Location:** New York, New York [#####]
+**Location:** New York, New York
 
 **Date:** 11-23-2026
 
@@ -106,7 +102,5 @@ Thank you for your time and consideration.
 
 Sincerely,
 
-Lewis Seals  
-5161 Leonard Road  
-Memphis, TN 38109
+Lewis Seals
 ```
