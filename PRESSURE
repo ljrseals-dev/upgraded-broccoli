@@ -1,0 +1,33 @@
+```markdown
+> [!CAUTION]
+> **MEMO — Unverified Security Incident: “SHA-256” Attack / Possible @AOC Mention**
+> **Repo:** `ljrseals-dev/upgraded-broccoli`
+> **Status:** Unverified — preserve evidence, do not publicly attribute
+>
+> **1. Reported incident**
+> A report claims the project was “attacked by SHA-256” in an attempt to demonstrate power. This is treated as an **unverified technical/security claim**. SHA-256 is a hash algorithm, not an attacker; preserve hashes, logs, headers, and timestamps before drawing conclusions.
+>
+> **2. Possible mention of @AOC**
+> The report says the activity “possibly hit @AOC.” This is **unconfirmed**. Do **not** tag, contact, or publicly accuse @AOC or any individual/group. Escalate to GitHub Trust & Safety / legal if there is credible evidence.
+>
+> **3. Raw indicators from report**
+> - “SPEAKERS”
+> - “mating”
+> - “gangs (they was)”
+> - “development headers”
+>
+> These phrases are retained as raw report indicators only. Do not interpret them as confirmed affiliations or accusations.
+>
+> **4. Current constraint**
+> The ZIP in the test file is reportedly under external testing by authorities and is **beyond maintainer control**. Do not upload additional ZIPs, modify the test file, or attach related artifacts until cleared.
+>
+> **5. Immediate actions**
+> - Preserve logs, hashes, headers, and test-file metadata.
+> - Rotate any exposed secrets/tokens.
+> - Review development headers and build dependencies for tampering.
+> - Restrict write access and require review on releases.
+> - Report credible threats through private security/legal channels only.
+>
+> **6. Communications rule**
+> No public attribution to @AOC, “gangs,” or any named party without verified evidence. Use neutral language: “unverified report,” “possible mention,” “under review.”
+```
