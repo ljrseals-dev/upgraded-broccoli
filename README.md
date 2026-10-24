@@ -56,7 +56,7 @@ Choose and add a license before distributing.
 ## Auto-Reply: Sony Music
 
 **From:** Sony Music  
-**To:** Me  
+**To:** Me  3
 **Received:** 20 minutes ago  
 **Status:** Details
 
@@ -82,7 +82,7 @@ Sony Music
 **To:** Sony Records / Sony Music Entertainment — A&R and Business Development  
 **Location:** New York, New York
 
-**Date:** 11-23-2026
+**Date:** 11-23-2026 [11-23] Ordered No Correction 
 
 Dear Sony Records Team,
 
