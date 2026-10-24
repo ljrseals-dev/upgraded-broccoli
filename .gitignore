@@ -1,0 +1,12 @@
+# platform-specific binaries — ship via GitHub Releases, not git
+vendor/
+
+# release bundle
+dist/*.zip
+
+# local/editor noise
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.log
